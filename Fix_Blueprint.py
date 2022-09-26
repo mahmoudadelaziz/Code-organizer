@@ -6,3 +6,6 @@ This code should serve as a blueprint to do the following for each "batch"*:
 
 * The number of elements in each batch is still to be determined.
 """
+
+# Placeholder dictionary
+myDict = {}
